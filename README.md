@@ -1,4 +1,4 @@
-# zikuzyuchisuitei-hampu-up
+# zikuzyuchisuitei-hump-up
 hanpu up
 
 clear; clc;
